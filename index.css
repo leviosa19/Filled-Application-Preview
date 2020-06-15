@@ -23,7 +23,7 @@ body {
 input[type="checkbox"]{
   width: 10px; /*Desired width*/
   height: 10px; /*Desired height*/
-  margin-left: 50px;
+  margin-left: 10px;
 }
 
 input[type="submit"]{
