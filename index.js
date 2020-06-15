@@ -214,11 +214,11 @@ class FormInput extends React.Component {
                 <div className="row">
                     <div className="col-lg-6">
                         <div className="form-group input-group-sm">
-                            <label for="addr">Home addr. and E-mail ID</label>
+                            <label for="addr">Home address</label>
 							<input type="text"
 								value={this.props.addr}
 								onChange={this.props.saveData}
-								className="form-control" name="addr" placeholder="Enter Home address and e-mail id" />
+								className="form-control" name="addr" placeholder="Enter Home address" />
                         </div>
                     </div>
                     <div className="col-lg-6">
