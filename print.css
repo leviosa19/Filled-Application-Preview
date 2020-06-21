@@ -1,0 +1,18 @@
+@media print
+{    
+    #formm {
+        display: none !important;
+    }
+
+    .col-lg-8 {
+        margin: 0 !important;
+    }
+
+    .first-box {
+        width: 644px !important;
+    }
+
+    .second-box {
+        width: 205px !important;
+    }
+}
